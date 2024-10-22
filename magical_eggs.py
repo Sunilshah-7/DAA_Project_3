@@ -1,7 +1,6 @@
 # Project 3 - Magical eggs and floors
 # Project Members: 1. Rose Kathiravan, 2. Sneha VijayaKumar, 3. Vanday Bundu, 4. Sunil Shah
 # Date: 10/21/2024
-# How do you want to start? Do you think we should have f be a 2D array, function, etc.?
 
 def input_eggs_number_and_floor():
     eggs = int(input("Enter the number of eggs: "))
